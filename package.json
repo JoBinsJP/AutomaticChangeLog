@@ -1,6 +1,6 @@
 {
   "name": "changelog-generator-demo",
-  "private": "true",
+  "private": "false",
   "version": "1.0.2",
   "description": "",
   "main": "index.js",
