@@ -172,4 +172,4 @@ References[](#references)
 
 Demo Project Link[](#references)
 -------------------------
-[Changelog Generator Demo](https://github.com/crestamr/AutomaticChangeLog)
+[Changelog Generator Demo](https://github.com/JoBinsJP/AutomaticChangeLog/blob/master/CHANGELOG.md)
