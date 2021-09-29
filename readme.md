@@ -169,7 +169,6 @@ References[](#references)
 
 1) [How to Write Good Commit Messages: A Practical Git Guide](https://www.freecodecamp.org/news/writing-good-commit-messages-a-practical-guide/)
 2) [Automatic Changelog And Standard version](https://lukasznojek.com/blog/2020/03/automatic-changelog-md-or-commitizer-and-standard-version-family/)
-3) [Automatic Changelog And Standard version](https://lukasznojek.com/blog/2020/03/automatic-changelog-md-or-commitizer-and-standard-version-family/)
 
 Demo Project Link[](#references)
 -------------------------
