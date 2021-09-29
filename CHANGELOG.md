@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.2](https://github.com/crestamr/AutomaticChangeLog/compare/v1.0.1...v1.0.2) (2021-09-29)
+
+
+### Bug Fixes
+
+* remove unwanted line ([d2314a1](https://github.com/crestamr/AutomaticChangeLog/commits/d2314a158663ebe9b9929f451825084fd104bdf2))
+
 ## 1.0.0 (2021-09-29)
 
 ### Features
