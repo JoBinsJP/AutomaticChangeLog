@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.2.2](https://github.com/crestamr/AutomaticChangeLog/compare/v1.2.1...v1.2.2) (2021-09-29)
+
+
+### Bug Fixes
+
+* package json private remove ([7dae5b3](https://github.com/crestamr/AutomaticChangeLog/commits/7dae5b3d9f5ce276a34956f4c6ff2be80a55b88b))
+
 ### [1.2.1](https://github.com/crestamr/AutomaticChangeLog/compare/v1.2.0...v1.2.1) (2021-09-29)
 
 
