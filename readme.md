@@ -137,8 +137,8 @@ In our demo we use a `.versionrc.json` file based on the [Conventional Changelog
           {"type": "perf", "hidden": true},
           {"type": "test", "hidden": true}
         ],
-        "commitUrlFormat": "https://github.com/mokkapps/changelog-generator-demo/commits/{{hash}}",
-        "compareUrlFormat": "https://github.com/mokkapps/changelog-generator-demo/compare/{{previousTag}}...{{currentTag}}"
+        "commitUrlFormat": "https://github.com/crestamr/AutomaticChangeLog/commits/{{hash}}",
+        "compareUrlFormat": "https://github.com/crestamr/AutomaticChangeLog/compare/{{previousTag}}...{{currentTag}}"
       }
 
 
@@ -148,7 +148,7 @@ The first release can be created by running `npm run release -- --first-release`
 
     ▶ npm run release -- --first-release
     
-    > changelog-generator-demo@0.0.0 release /Users/mhoffman/workspace/changelog-generator-demo
+    > changelog-generator-demo@0.0.0 release /Users/amr/Sites/AutomaticChangeLog
     > standard-version "--first-release"
     
     ✖ skip version bump on first release
@@ -156,7 +156,7 @@ The first release can be created by running `npm run release -- --first-release`
     ✔ outputting changes to CHANGELOG.md
     ✔ committing CHANGELOG.md
     ✔ tagging release v0.0.0
-    ℹ Run `git push --follow-tags origin master` to publish
+    ℹ Run `git push --follow-tags origin master && npm publish` to publish
 
 Conclusion[](#conclusion)
 -------------------------
@@ -170,3 +170,7 @@ References[](#references)
 1) [How to Write Good Commit Messages: A Practical Git Guide](https://www.freecodecamp.org/news/writing-good-commit-messages-a-practical-guide/)
 2) [Automatic Changelog And Standard version](https://lukasznojek.com/blog/2020/03/automatic-changelog-md-or-commitizer-and-standard-version-family/)
 3) [Automatic Changelog And Standard version](https://lukasznojek.com/blog/2020/03/automatic-changelog-md-or-commitizer-and-standard-version-family/)
+
+Demo Project Link[](#references)
+-------------------------
+[Changelog Generator Demo](https://github.com/crestamr/AutomaticChangeLog)
